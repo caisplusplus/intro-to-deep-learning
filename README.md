@@ -1,5 +1,4 @@
 # Intro to Deep Learning
----
 Spring 2018 Deep Learning Workshop with ACM and AAAI
 
 Workshop date: February 27, 2018
