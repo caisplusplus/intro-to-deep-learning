@@ -1,7 +1,9 @@
 # Intro to Deep Learning
-Spring 2018 Deep Learning Workshop with ACM and AAAI
+General Intro to Deep Learning Workshop
 
-Workshop date: February 27, 2018
+Workshop dates: 
+* February 27, 2018
+* November 14, 2018
 
 ### Workshop Instructions:
 1. Complete the [environment setup instructions](http://caisplusplus.usc.edu/blog/curriculum/environment_setup)
